@@ -1,0 +1,5 @@
+C:\Users\caio.pereira\Documents\Caio Augusto\Projetos - GitHub\ProjectModelDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.dll
+C:\Users\caio.pereira\Documents\Caio Augusto\Projetos - GitHub\ProjectModelDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.pdb
+C:\Users\caio.pereira\Documents\Caio Augusto\Projetos - GitHub\ProjectModelDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csprojResolveAssemblyReference.cache
+C:\Users\caio.pereira\Documents\Caio Augusto\Projetos - GitHub\ProjectModelDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.dll
+C:\Users\caio.pereira\Documents\Caio Augusto\Projetos - GitHub\ProjectModelDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.pdb
